@@ -1,6 +1,6 @@
-<p align="center"><img src="https://media1.giphy.com/media/FVKTpVWb1DY3WNCYHA/giphy.gif" width="550" height="176"></center> 
+<p align="center"><img src="https://media1.giphy.com/media/FVKTpVWb1DY3WNCYHA/giphy.gif" width="150" height="150"></center> 
 
-# <p align="center"> ▲ Get Free Crypto •••➤ https://hackers.ge ✔ </center>
+# <center><a href="https://hackers.ge">▲ Admins.GE ➤ Hackers.GE ✔</a></center>
 
 
 
