@@ -5,7 +5,7 @@
 </body>
 </html>
 
-<center>
+<hr>
 
 # HACKERS.GE - Official IT Community
 
