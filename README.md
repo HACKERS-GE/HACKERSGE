@@ -6,5 +6,4 @@
 <hr>
 
 <p align="center">
-  
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HACKERS-GE&repo=HACKERSGE)
