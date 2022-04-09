@@ -4,4 +4,4 @@
 
 | Top Langs |   History   | Latest Public repo                 |
 | :-------- | :------- | :------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhetaguriHackers&layout=compact) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERS-GE&show_icons=true&theme=radical)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HackersGe&repo=HACKERSGE)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERS-GE&layout=compact) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERS-GE&show_icons=true&theme=radical)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HackersGe&repo=HACKERSGE)
