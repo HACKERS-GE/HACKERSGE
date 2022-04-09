@@ -3,11 +3,7 @@
 </p>
 
 # <p align="center"> ▲ Get Free Crypto •••➤ <a href="https://www.gate.io/ref/3301721">Crypto Mixer</a>✔ </center>
-
-<center>
-
+<p align="center">
 | Latest Public repo                 |
 :------------------------- |
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HACKERS-GE&repo=HACKERSGE)
-
-  </center>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HACKERS-GE&repo=HACKERSGE)</p>
