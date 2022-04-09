@@ -4,6 +4,6 @@
 
 # <p align="center"> ▲ Get Free Crypto •••➤ <a href="https://www.gate.io/ref/3301721">Crypto Mixer</a>✔</p>
 
-<p align="center">
+<p align="center"><center>
   
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HACKERS-GE&repo=HACKERSGE) </p>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HACKERS-GE&repo=HACKERSGE) </p></center>
