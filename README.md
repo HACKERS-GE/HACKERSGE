@@ -4,6 +4,6 @@
 
 # <p align="center"> ▲ Get Free Crypto •••➤ <a href="https://www.gate.io/ref/3301721">Crypto Mixer</a>✔ </center>
 
-| Top Langs |   History   | Latest Public repo                 |
-| :-------- | :------- | :------------------------- |
+| Latest Public repo                 |
+:------------------------- |
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HACKERS-GE&repo=HACKERSGE)
