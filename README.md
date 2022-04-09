@@ -1,18 +1,7 @@
-<html>
-<body>
-<p align="center"><img src="https://media1.giphy.com/media/FVKTpVWb1DY3WNCYHA/giphy.gif" width="150" height="150"></center> 
-<p align="center"><a href="https://hackers.ge">▲ Admins.GE ➤ Hackers.GE ✔</a></center>
-</body>
-</html>
+# <p aling="center"><img src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif" width="728" height="90" /></center></p>
 
-<hr>
+# <p align="center"> ▲ Get Free Crypto •••➤ https://www.gate.io/ref/3301721 ✔ </center>
 
-# HACKERS.GE - Official IT Community
-
-## ✔ Search Engine Optimization
-
-### •➤ Cyber Community | IT Enthusiast & Proffesionals
-
-https://Hackers.Ge
-
-  </center>
+| Top Langs |   History   | Latest Public repo                 |
+| :-------- | :------- | :------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhetaguriHackers&layout=compact) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERS-GE&show_icons=true&theme=radical)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HackersGe&repo=HACKERSGE)
